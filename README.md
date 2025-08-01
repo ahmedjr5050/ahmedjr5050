@@ -44,7 +44,11 @@ I'm a passionate **Flutter Developer** specializing in building scalable, cross-
 - **QR-based attendance system** for seamless check-ins
 - **Vacation & Leave Management** with admin approval dashboard
 - **Azure AD integration** for secure authentication
-- **Published on:** Google Play Store, Apple App Store, Huawei AppGallery
+
+**Download Links:**
+- 📱 [Apple App Store](https://apps.apple.com/us/app/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82-sha/id1661759970)
+- 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=eg.edu.sha.shaApp&hl=ar)
+- 🌟 [Huawei AppGallery](https://appgallery.huawei.com/Featured)
 
 ### 💼 Nagib Selim App (PCP)
 **Cross-platform business application**
@@ -54,18 +58,21 @@ I'm a passionate **Flutter Developer** specializing in building scalable, cross-
 - **Clean Architecture** with modular codebase
 - **BLoC state management** for scalable architecture
 
+**Download Links:**
+- 📱 [Apple App Store](https://apps.apple.com/us/app/naguib-selim/id6477354338)
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjr5050&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjr5050&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjr5050&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🌟 Core Competencies
@@ -81,8 +88,16 @@ I'm a passionate **Flutter Developer** specializing in building scalable, cross-
 
 ## 📱 Published Apps
 
-- 📚 **EIShorouk Academy** - Available on Google Play, App Store & AppGallery
-- 💼 **Nagib Selim** - Live on Apple App Store, coming soon to Google Play
+### 📚 EIShorouk Academy
+**Multi-platform student management system**
+- 📱 [Apple App Store](https://apps.apple.com/us/app/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82-sha/id1661759970)
+- 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=eg.edu.sha.shaApp&hl=ar)
+- 🌟 [Huawei AppGallery](https://appgallery.huawei.com/Featured)
+
+### 💼 Nagib Selim
+**Cross-platform business application**
+- 📱 [Apple App Store](https://apps.apple.com/us/app/naguib-selim/id6477354338)
+- 🤖 Google Play Store *(Coming Soon)*
 
 ## 🎯 Development Philosophy
 
@@ -98,7 +113,7 @@ I believe in writing **clean, maintainable code** that follows industry best pra
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-985730222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsabry7333@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201020754179)
 
@@ -107,7 +122,7 @@ I believe in writing **clean, maintainable code** that follows industry best pra
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedjr5050&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
