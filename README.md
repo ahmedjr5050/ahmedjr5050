@@ -1,13 +1,115 @@
-### Hi there 👋, my name is Ahmed
-#### Flutter Developer | Firebase, Google Maps, AI Integration | Cross-Platform Mobile Solutions
-![Flutter Developer | Firebase, Google Maps, AI Integration | Cross-Platform Mobile Solutions](https://www.digitalknights.co/hs-fs/hubfs/cca_form_fields_en.png?width=1125&name=cca_form_fields_en.png)
+# Hi there, I'm Ahmed Sabry 👋
 
-I am a passionate Flutter developer with a focus on building efficient, high-performance mobile applications. My expertise spans across state management, Firebase authentication, Google Maps integration, and AI-driven solutions like chatbots and voice interactions. Currently, I am working on a university application for El Shorouk Academy aimed at improving the digital experience for students and staff. I strive to write clean, maintainable code and create user-centric designs that enhance functionality and usability.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Developer;Cross-Platform+Mobile+Expert;Firebase+%26+Cloud+Specialist;Clean+Architecture+Advocate" alt="Typing SVG" />
+</div>
 
-Skills: - Flutter & Dart - Firebase Authentication - Google Maps Integration - API Integration - AI Chatbots & Voice Interaction - State Management (Provider, Riverpod) - Real-time Data Sync - UI/UX Design
+## 🚀 About Me
 
-- 🔭 I’m currently working on university application for El Shorouk Academy to enhance student and staff interaction and improve campus services. 
+I'm a passionate **Flutter Developer** specializing in building scalable, cross-platform applications for **Android**, **iOS**, and **Huawei**. With expertise in modern mobile development practices, I focus on delivering seamless user experiences while maintaining clean, maintainable code.
 
+- 🎓 **Computer Science & Engineering Graduate** (June 2023)
+- 📱 Currently developing mobile apps at **EIShorouk Academy** and **PCP**
+- 🌱 Passionate about **Clean Architecture**, **SOLID principles**, and **state management**
+- 💡 Experienced in **Firebase**, **AR technology**, **AI-powered chatbots**, and **real-time systems**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedjr5050)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-sabry-985730222/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100019908544241)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmedsabry50100/)  
+## 🛠️ Tech Stack
 
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+### State Management
+![BLoC](https://img.shields.io/badge/BLoC-3178C6?style=for-the-badge&logo=flutter&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Cloud
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+
+## 🏆 Featured Projects
+
+### 🚌 EIShorouk Academy Mobile App
+**Multi-platform student management system**
+- **Real-time bus tracking** with Firebase Realtime Database & Huawei Maps
+- **QR-based attendance system** for seamless check-ins
+- **Vacation & Leave Management** with admin approval dashboard
+- **Azure AD integration** for secure authentication
+- **Published on:** Google Play Store, Apple App Store, Huawei AppGallery
+
+### 💼 Nagib Selim App (PCP)
+**Cross-platform business application**
+- **Multi-authentication:** Facebook, Google, Apple Sign-In, Email/Password
+- **Payment integration** with Paymob API
+- **Bilingual support** (Arabic & English)
+- **Clean Architecture** with modular codebase
+- **BLoC state management** for scalable architecture
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🌟 Core Competencies
+
+- **Cross-Platform Development:** Expert in Flutter for Android, iOS, and Huawei platforms
+- **State Management:** Proficient in Cubit, BLoC, Provider, and GetX
+- **Authentication Systems:** Firebase Auth, Azure AD, OAuth implementations
+- **Real-time Applications:** Firebase Realtime Database, live tracking systems
+- **Payment Integration:** Paymob API, secure transaction handling
+- **Clean Architecture:** SOLID principles, modular design patterns
+- **Localization:** Multi-language app support and internationalization
+- **AR & AI Integration:** Augmented reality features and chatbot development
+
+## 📱 Published Apps
+
+- 📚 **EIShorouk Academy** - Available on Google Play, App Store & AppGallery
+- 💼 **Nagib Selim** - Live on Apple App Store, coming soon to Google Play
+
+## 🎯 Development Philosophy
+
+I believe in writing **clean, maintainable code** that follows industry best practices. My approach includes:
+
+- ✅ **Clean Architecture** for scalable applications
+- ✅ **SOLID Principles** for robust design
+- ✅ **Test-Driven Development** for reliable software
+- ✅ **Agile Methodologies** for efficient project delivery
+- ✅ **User-Centric Design** for exceptional experiences
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsabry7333@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201020754179)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>⭐ From Ahmed Sabry - Building the future, one app at a time! ⭐</i>
+</div>
