@@ -57,15 +57,15 @@ I'm a passionate **Flutter Developer** specializing in building scalable, cross-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjr5050&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjr5050&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjr5050&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🌟 Core Competencies
@@ -98,7 +98,7 @@ I believe in writing **clean, maintainable code** that follows industry best pra
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sabry-985730222/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsabry7333@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201020754179)
 
@@ -107,7 +107,7 @@ I believe in writing **clean, maintainable code** that follows industry best pra
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedjr5050&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
