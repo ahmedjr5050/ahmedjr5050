@@ -48,7 +48,7 @@ I'm a passionate **Flutter Developer** specializing in building scalable, cross-
 **Download Links:**
 - 📱 [Apple App Store](https://apps.apple.com/us/app/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82-sha/id1661759970)
 - 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=eg.edu.sha.shaApp&hl=ar)
-- 🌟 [Huawei AppGallery](https://appgallery.huawei.com/Featured)
+- 🌟 [Huawei AppGallery](https://appgallery.huawei.com/app/C107297557)
 
 ### 💼 Nagib Selim App (PCP)
 **Cross-platform business application**
